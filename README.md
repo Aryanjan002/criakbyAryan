@@ -8,3 +8,5 @@
 # git clone https://github.com/Aryanjan002/criakbyAryan
 # cd criakbyAryan
 # python2 ARYAN.py
+# Username Aryan
+# password Hacker
